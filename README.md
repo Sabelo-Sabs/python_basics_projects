@@ -6,6 +6,8 @@ Let's better understand Python basics in applications. This repo serves as a per
 
 ### 1. Naruto Character Tracker
 
+![Itachi Uchiha](https://github.com/Sabelo-Sabs/python_basics_projects/assets/83790438/0d3635ff-a411-46af-b0a7-39f7c43829ae)
+
 ### 2. [To be updated]
 
 ## Instructions to Run the Project
